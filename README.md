@@ -31,10 +31,8 @@ chatbot.
 
 ● Development of Chatbot Application:
 <br>
-○ Step-by-step guide on building a functional chatbot application for online
+○ Step-by-step guide on building a functional chatbot application for online shopping using RAG.
 <br>
 
 # Code Structure
 ![image](https://github.com/user-attachments/assets/6fb72fb8-20bf-4d24-b128-a8ab5861d58a)
-
-shopping using RAG.
